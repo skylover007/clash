@@ -1,8 +1,11 @@
 ## > MovieToday_Live
 DOMAIN-KEYWORD,jrys
 DOMAIN-KEYWORD,jins365m
+DOMAIN,jrys.theworkpc.com
+DOMAIN,jrysm.webredirect.org
 DOMAIN-SUFFIX,jrys.top
 DOMAIN-SUFFIX,jins365m.com
 DOMAIN-SUFFIX,jin365m.vip
-DOMAIN-SUFFIX,jrys.theworkpc.com
-DOMAIN-SUFFIX,jrysm.webredirect.org
+IP-CIDR,163.181.0.0/16,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,91.108.0.0/16,no-resolve
