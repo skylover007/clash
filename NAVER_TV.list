@@ -1,6 +1,7 @@
-# NAVER TV
-DOMAIN-KEYWORD,naver
 DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,naver.net
 DOMAIN-SUFFIX,navercorp.com
-DOMAIN-SUFFIX,pstatic.net
-DOMAIN-SUFFIX,smartmediarep.com
+DOMAIN-SUFFIX,tvcast.naver.com
+DOMAIN-SUFFIX,now.naver.com
+DOMAIN-SUFFIX,rmcnmv.naver.com
+DOMAIN-KEYWORD,naver
